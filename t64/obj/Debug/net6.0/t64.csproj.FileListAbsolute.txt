@@ -1,0 +1,15 @@
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\bin\Debug\net6.0\t64.exe
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\bin\Debug\net6.0\t64.deps.json
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\bin\Debug\net6.0\t64.runtimeconfig.json
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\bin\Debug\net6.0\t64.dll
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\bin\Debug\net6.0\t64.pdb
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.csproj.AssemblyReference.cache
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.AssemblyInfoInputs.cache
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.AssemblyInfo.cs
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.csproj.CoreCompileInputs.cache
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.dll
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\refint\t64.dll
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.pdb
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\t64.genruntimeconfig.cache
+C:\Users\Qeeveik\Desktop\tasks\task64\t64\obj\Debug\net6.0\ref\t64.dll
